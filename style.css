@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    padding: 25px;
+}
+
+p{
+    text-align: justify;
+    margin: 80px;
+    text-decoration-color: black;
+}
