@@ -1,0 +1,31 @@
+/*
+    Para llamar clases eg
+
+    .clase{
+
+    }
+*/
+
+/*
+    Para llamar id`s
+
+    #id{
+
+    }
+*/
+html, body{
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+#mayor{
+    background-color: red;
+    height: 300px;
+}
+
+#menor{
+    background-color: blue;
+    height: 50%;
+    margin-top: 20px; 
+}
