@@ -20,12 +20,12 @@ html, body{
 }
 
 #mayor{
-    background-color: red;
-    height: 300px;
+    background-color: orangered;
+    height: 100%;
 }
 
 #menor{
     background-color: blue;
     height: 50%;
-    margin-top: 20px; 
+
 }
